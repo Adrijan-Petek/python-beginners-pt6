@@ -38,5 +38,4 @@ jobs:
       run: |
         echo -e "5\n0" | python error_example.py
 
-    - name: Run module_example.py
-      run: python module_example.py
+
