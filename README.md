@@ -132,5 +132,3 @@ The workflow `.github/workflows/python-app.yml` runs automatically on **push** a
 Open issues, submit pull requests, or **star the repo** ⭐
 
 [Visit the GitHub repository »](https://github.com/Adrijan-Petek/python-beginners-pt6)
-
-```
